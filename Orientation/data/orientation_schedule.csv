@@ -2,42 +2,42 @@ Day ,Weekday,Event Name,Category,Time,Duration,Location,Registration needed,Diet
 Day 1,Sunday,Opening Ceremonies,Low Energy,1:30 PM,1 h,On Campus,No,NA,Brennan Hall,550,315
 Day 1,Sunday,Games Rotation,High Energy,3:00 PM,2.5 h,On Campus,No,NA,Orientation Field,640,140
 Day 1,Sunday,Dinner,Meals,5:30 PM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 1,Sunday,Varsity Football Game,High Energy,7:00 PM,2 h,On Campus,No,NA,Carr Hall,230,700
+Day 1,Sunday,Varsity Football Game,High Energy,7:00 PM,2 h,On Campus,No,NA,Carr Hall,230,680
 Day 2,Monday,Campus Tours,High Energy,9:00 AM,3 h,On Campus,Yes,NA,Orientation Field,640,140
 Day 2,Monday,Lunch,Meals,12:00 PM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 2,Monday,Mentorship Orientation,Educational,10:30 AM,1.5 h,On Campus,No,NA,Carr Hall,230,700
+Day 2,Monday,Mentorship Orientation,Educational,10:30 AM,1.5 h,On Campus,No,NA,Carr Hall,230,680
 Day 2,Monday,Consent for Real Life Presentation,Educational,1:00 PM,1.5 h,On Campus,No,NA,Brennan Hall,550,315
 Day 2,Monday,BIPOC Fair,Educational,2:30 PM,2.5 h,On Campus,No,NA,Alumni Hall,280,895
 Day 2,Monday,Paint,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Brennan Hall,561,315
-Day 2,Monday,Yoga,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Charbonnel Lounge,500,85
+Day 2,Monday,Yoga,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Charbonnel Lounge,500,75
 Day 2,Monday,Rainbow Parachute,High Energy,2:30 PM,2.5 h,On Campus,No,NA,Orientation Field,640,140
 Day 2,Monday,Contemplative Walk with Campus Ministry,Low Energy,2:30 PM,2.5 h,Off Campus,No,NA,Brennan Hall,550,315
-Day 2,Monday,Bed Race Try Outs,High Energy,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,85
+Day 2,Monday,Bed Race Try Outs,High Energy,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75
 Day 2,Monday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
 Day 2,Monday,Block Party Carnival,High Energy,6:00 PM,4 h,On Campus,No,NA,Orientation Field,640,140
 Day 3,Tuesday,Commuter Orientation,Educational,10:00 AM,2 h,On Campus,No,NA,Alumni Hall,270,895
 Day 3,Tuesday,Pre UofT Panels,Educational,1:00 PM,1.5 h,On Campus,No,NA,Kelly Library,440,900
 Day 3,Tuesday,Pancake Social,Low Energy,3:00 PM,2 h,On Campus,No,NA,Orientation Field,640,140
-Day 3,Tuesday,Mock Lectures,Educational,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,85
+Day 3,Tuesday,Mock Lectures,Educational,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75
 Day 3,Tuesday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
 Day 3,Tuesday,Board Games Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
 Day 3,Tuesday,Dance Party,High Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 3,Tuesday,Praise and Worship Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,85
+Day 3,Tuesday,Praise and Worship Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75
 Day 3,Tuesday,Mystery Hunt,Low Energy,7:00 PM,2 h,On Campus,No,NA,Kelly Library,440,900
 Day 4,Wednesday,Lunch,Meals,9:00 AM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
 Day 4,Wednesday,Pep Rally,High Energy,9:00 AM,1 h,On Campus,No,NA,Orientation Field,640,140
 Day 4,Wednesday,Cheer Off and Parade,High Energy,10:30 AM,1.5 h,On Campus,No,NA,Orientation Field,640,140
-Day 4,Wednesday,Clubs Fair,High Energy,1:00 PM,3 h,On Campus,No,NA,Charbonnel Lounge,500,85
+Day 4,Wednesday,Clubs Fair,High Energy,1:00 PM,3 h,On Campus,No,NA,Charbonnel Lounge,500,75
 Day 4,Wednesday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian, Vegan",Orientation Field,640,140
 Day 4,Wednesday,Kelly's Korner,Low Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
 Day 5,Thursday,International Student Welcome,Low Energy,12:30 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
 Day 5,Thursday,Bed Races,High Energy,4:00 PM,1.5 h,On Campus,No,NA,Orientation Field,640,140
 Day 5,Thursday,Movie Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Alumni Hall,280,895
 Day 6,Friday,Syllabus Reading Party,Low Energy,2:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 7,Saturday,Campus Ministry Mass,Low Energy,5:00 PM,1 h,On Campus,No,NA,Charbonnel Lounge,500,85
+Day 7,Saturday,Campus Ministry Mass,Low Energy,5:00 PM,1 h,On Campus,No,NA,Charbonnel Lounge,500,75
 Day 7,Saturday,Formal & Closing Ceremonies,High Energy,7:00 PM,3 h,Off Campus,Yes,NA,NA,NA,NA
 Day 8,Sunday,City Tours,High Energy,11:00 AM,3 h,Off Campus,Yes,NA,NA,NA,NA
-Day 9,Monday,Academic Social,Low Energy,5:00 PM,2 h,On Campus,No,NA,Carr Hall,230,700
+Day 9,Monday,Academic Social,Low Energy,5:00 PM,2 h,On Campus,No,NA,Carr Hall,230,680
 Day 10,Tuesday,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 Day 11,Wednesday,Resources and Clubs Fair,Low Energy,12:00 PM,3 h,On Campus,No,NA,Kelly Library,440,900
 Day 11,Wednesday,Back to School BBQ,Low Energy,4:00 PM,4 h,On Campus,No,NA,Orientation Field,640,140
