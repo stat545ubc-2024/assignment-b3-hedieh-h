@@ -1,43 +1,145 @@
-Day ,Weekday,Event Name,Category,Time,Duration,Location,Registration needed,Dietary Restrictions,Event Location,X Coordinate,Y Coordinate
-Day 1,Sunday,Opening Ceremonies,Low Energy,1:30 PM,1 h,On Campus,No,NA,Brennan Hall,550,315
-Day 1,Sunday,Games Rotation,High Energy,3:00 PM,2.5 h,On Campus,No,NA,Orientation Field,640,140
-Day 1,Sunday,Dinner,Meals,5:30 PM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 1,Sunday,Varsity Football Game,High Energy,7:00 PM,2 h,On Campus,No,NA,Carr Hall,230,680
-Day 2,Monday,Campus Tours,High Energy,9:00 AM,3 h,On Campus,Yes,NA,Orientation Field,640,140
-Day 2,Monday,Lunch,Meals,12:00 PM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 2,Monday,Mentorship Orientation,Educational,10:30 AM,1.5 h,On Campus,No,NA,Carr Hall,230,680
-Day 2,Monday,Consent for Real Life Presentation,Educational,1:00 PM,1.5 h,On Campus,No,NA,Brennan Hall,550,315
-Day 2,Monday,BIPOC Fair,Educational,2:30 PM,2.5 h,On Campus,No,NA,Alumni Hall,280,895
-Day 2,Monday,Paint,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Brennan Hall,561,315
-Day 2,Monday,Yoga,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Charbonnel Lounge,500,75
-Day 2,Monday,Rainbow Parachute,High Energy,2:30 PM,2.5 h,On Campus,No,NA,Orientation Field,640,140
-Day 2,Monday,Contemplative Walk with Campus Ministry,Low Energy,2:30 PM,2.5 h,Off Campus,No,NA,Brennan Hall,550,315
-Day 2,Monday,Bed Race Try Outs,High Energy,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75
-Day 2,Monday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 2,Monday,Block Party Carnival,High Energy,6:00 PM,4 h,On Campus,No,NA,Orientation Field,640,140
-Day 3,Tuesday,Commuter Orientation,Educational,10:00 AM,2 h,On Campus,No,NA,Alumni Hall,270,895
-Day 3,Tuesday,Pre UofT Panels,Educational,1:00 PM,1.5 h,On Campus,No,NA,Kelly Library,440,900
-Day 3,Tuesday,Pancake Social,Low Energy,3:00 PM,2 h,On Campus,No,NA,Orientation Field,640,140
-Day 3,Tuesday,Mock Lectures,Educational,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75
-Day 3,Tuesday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 3,Tuesday,Board Games Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 3,Tuesday,Dance Party,High Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 3,Tuesday,Praise and Worship Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75
-Day 3,Tuesday,Mystery Hunt,Low Energy,7:00 PM,2 h,On Campus,No,NA,Kelly Library,440,900
-Day 4,Wednesday,Lunch,Meals,9:00 AM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140
-Day 4,Wednesday,Pep Rally,High Energy,9:00 AM,1 h,On Campus,No,NA,Orientation Field,640,140
-Day 4,Wednesday,Cheer Off and Parade,High Energy,10:30 AM,1.5 h,On Campus,No,NA,Orientation Field,640,140
-Day 4,Wednesday,Clubs Fair,High Energy,1:00 PM,3 h,On Campus,No,NA,Charbonnel Lounge,500,75
-Day 4,Wednesday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian, Vegan",Orientation Field,640,140
-Day 4,Wednesday,Kelly's Korner,Low Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 5,Thursday,International Student Welcome,Low Energy,12:30 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 5,Thursday,Bed Races,High Energy,4:00 PM,1.5 h,On Campus,No,NA,Orientation Field,640,140
-Day 5,Thursday,Movie Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Alumni Hall,280,895
-Day 6,Friday,Syllabus Reading Party,Low Energy,2:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315
-Day 7,Saturday,Campus Ministry Mass,Low Energy,5:00 PM,1 h,On Campus,No,NA,Charbonnel Lounge,500,75
-Day 7,Saturday,Formal & Closing Ceremonies,High Energy,7:00 PM,3 h,Off Campus,Yes,NA,Off Campus,NA,NA
-Day 8,Sunday,City Tours,High Energy,11:00 AM,3 h,Off Campus,Yes,NA,Off Campus,NA,NA
-Day 9,Monday,Academic Social,Low Energy,5:00 PM,2 h,On Campus,No,NA,Carr Hall,230,680
-Day 11,Wednesday,Resources and Clubs Fair,Low Energy,12:00 PM,3 h,On Campus,No,NA,Kelly Library,440,900
-Day 11,Wednesday,Back to School BBQ,Low Energy,4:00 PM,4 h,On Campus,No,NA,Orientation Field,640,140
-Day 12,Thursday,Blue Jays Game,High Energy,7:00 PM,2 h,Off Campus,Yes,NA,Off Campus,NA,NA
+Day ,Weekday,Event Name,Category,Time,Duration,Location,Registration needed,Dietary Restrictions,Event Location,X Coordinate,Y Coordinate,Event Description
+Day 1,Sunday,Opening Ceremonies,Low Energy,1:30 PM,1 h,On Campus,No,NA,Brennan Hall,550,315,"In this event, students will be officially welcomed into the St. Michael's College community by the Orientation Coordinators! Students will also hear from President Sylvester, Principal Morra and an SMC alumni. Students will also receive a gift and get to discover UofT's biggest classroom, Convocation Hall. Convocation Hall is also where students will be graduating, which emphasizes the beginning of your new journey at UofT!"
+Day 1,Sunday,Games Rotation,High Energy,3:00 PM,2.5 h,On Campus,No,NA,Orientation Field,640,140,"Feeling a little nervous about starting university? What better way to start off university than with a whirlwind of icebreakers and competitive games to meet (or destroy XD) fellow future classmates and win points for the O-Cup! As one of the first activities to do during O Week, these fun games give you an opportunity to learn about and become familiar with the spaces St. Mikes has to offer. As well, you will get a chance to experience for the first, and hopefully not the last time, what the St. Mikes community is like: a close-knit family. 
+
+You can expect a combination of chill/sit-down games and competitve/high movement games. No matter what your comfort level is, we have something for you!
+
+Each group will be stationed at different locaitons on the SMC campus. Please check the games rotaiton map to see where your group will be stationed. "
+Day 1,Sunday,Dinner,Meals,5:30 PM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140,"Feeling a little nervous about starting university? What better way to start off university than with a whirlwind of icebreakers and competitive games to meet (or destroy XD) fellow future classmates and win points for the O-Cup! As one of the first activities to do during O Week, these fun games give you an opportunity to learn about and become familiar with the spaces St. Mikes has to offer. As well, you will get a chance to experience for the first, and hopefully not the last time, what the St. Mikes community is like: a close-knit family. 
+
+You can expect a combination of chill/sit-down games and competitve/high movement games. No matter what your comfort level is, we have something for you!
+
+Each group will be stationed at different locaitons on the SMC campus. Please check the games rotaiton map to see where your group will be stationed. "
+Day 1,Sunday,Varsity Football Game,High Energy,7:00 PM,2 h,On Campus,No,NA,Carr Hall,230,680,"Come watch UofT's Varisty Blues play agianst UOttowa's Gee Gees. Expect high energy crowds, loud chants and lots of excitement, as we cheer on our Varsity Blues Team! "
+Day 2,Monday,Campus Tours,High Energy,9:00 AM,3 h,On Campus,Yes,NA,Orientation Field,640,140,"We invite you to immerse yourself in the vibrant atmosphere of our esteemed institution. Accompanied by our knowledgeable student guides, you will embark on a captivating journey through the campus, exploring its captivating architecture, modern facilities, and serene outdoor spaces. From the iconic Hart House to the renowned Robarts Library and the historic Convocation Hall, you will witness the rich history and academic excellence that defines the University of Toronto. 
+
+Please note that each tour lasts for 2 hours. Don't forget to wear comfortable clothing, and bring water and snacks if you need it! Please sign up for a tour slot using the link below. "
+Day 2,Monday,Lunch,Meals,12:00 PM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140,"Lunch for Sep 4th will be Flex Bowls! Please make sure to read the ingredients and double check for allergens and dietary restrictions. 
+
+Meal description: Choice of Chicken or Tofu our flex bowels have Rice, Quinoa, Corn, Beans, Chopped Tomatoes, cucumbers and topped with an avacoda aioli. Whole Fruit for dessert.
+Ingredients:
+Rice, Quinoa, Corn, Beans, Tomatoes, Cucumber, Avocado
+Tofu: soy milk
+Chicken breast: chicken breast, salt, pepper
+Aioli: mayonnaise, lime, cumin, chili
+This meal is gluten free.
+
+Unfortunately we cannot provide food for all dietary requirements due to the large number of attendees. Therefore, if the meals provided don't accomodate your dietary requirements, we kindly ask that you bring your own food for this meal. "
+Day 2,Monday,Mentorship Orientation,Educational,10:30 AM,1.5 h,On Campus,No,NA,Carr Hall,230,680,Come meet your mentors and get all of your questions answered!
+Day 2,Monday,Consent for Real Life Presentation,Educational,1:00 PM,1.5 h,On Campus,No,NA,Brennan Hall,550,315,"In this engaging presentaiton by Karen BK Chan, Orientees will learn about creating a culture of consent in Orientation and beyond. Please note that attendance is mandatory for this event. 
+
+A culture of consent is one where communication and consent are the norm in all interactions. In such a culture, individuals are respected, are not objectified, and have autonomy over their actions, bodies, and decisions. Incidents of harm and violence are not minimized. Consent is an everyday practice that needs to come before many different types of interactions. Come to the presentation to learn more about consent culture, and how to apply it to real life!"
+Day 2,Monday,BIPOC Fair,Educational,2:30 PM,2.5 h,On Campus,No,NA,Alumni Hall,280,895,"In this engaging presentaiton by Karen BK Chan, Orientees will learn about creating a culture of consent in Orientation and beyond. Please note that attendance is mandatory for this event. 
+
+A culture of consent is one where communication and consent are the norm in all interactions. In such a culture, individuals are respected, are not objectified, and have autonomy over their actions, bodies, and decisions. Incidents of harm and violence are not minimized. Consent is an everyday practice that needs to come before many different types of interactions. Come to the presentation to learn more about consent culture, and how to apply it to real life!"
+Day 2,Monday,Paint,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Brennan Hall,561,315,"We will be offering you the perfect opportunity to express your artistic skills, with your new friends! All art tools including canvases will be provided for you “artists”! We are excited to see how white empty canvas will be turned into colorful sea creatures or ocean waves with under the sea theme. "
+Day 2,Monday,Yoga,Low Energy,2:30 PM,2.5 h,On Campus,No,NA,Charbonnel Lounge,500,75,"If you are under pressure to prepare for your first year at university, join a Yoga session with a professional instructor! After taking several deep breaths and stretching your body, you will be able to control your mood better. If you have any academic concerns or looking for some suggestions, this will be a good time to talk with your peers :)  "
+Day 2,Monday,Rainbow Parachute,High Energy,2:30 PM,2.5 h,On Campus,No,NA,Orientation Field,640,140,"This playful and interactive activity involves a large multi-coloured nylon sheet. Prepare for fun in the sun and under the parachute's rainbow canopy! Take hold of a handle and play classic recess games like cat and mouse, popcorn toss, ring around the rosie, and trading spaces. All games will be facilitated with instructions, and no previous experience is necessary.  "
+Day 2,Monday,Contemplative Walk with Campus Ministry,Low Energy,2:30 PM,2.5 h,Off Campus,No,NA,Brennan Hall,550,315,"Craving some silence and solitude? If you are looking for a chance to unwind and recenter, to slow down your racing thoughts, and notice what is around and within you, join us in the Quad for a Contemplative Walk. On this self-guided walk you will be given a few reflection prompts, and set off on your own to wander campus and surrounding areas, before reconvening to discuss the experience together!"
+Day 2,Monday,Bed Race Try Outs,High Energy,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75,"This playful and interactive activity involves a large multi-coloured nylon sheet. Prepare for fun in the sun and under the parachute's rainbow canopy! Take hold of a handle and play classic recess games like cat and mouse, popcorn toss, ring around the rosie, and trading spaces. All games will be facilitated with instructions, and no previous experience is necessary.  "
+Day 2,Monday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140,"Dinner for Sep 4th will be ""The Grill""! Please make sure to read the ingredients and double check for allergens and dietary restrictions. 
+
+Ingredients:
+Hamburger: beef, salt (GF)
+Black bean burger: black beans, red pepper, green pepper, red onions, carrots, seasoning (GF)
+Pasta salad: semolina wheat, durum wheat
+For GF pasta salad and buns, please contact staff.
+
+Meal description: 
+Hamburgers or black bean burgers with Pasta Salad, watermelon slices, fresh baked cookies.
+
+Unfortunately we cannot provide food for all dietary requirements due to the large number of attendees. Therefore, if the meals provided don't accomodate your dietary requirements, we kindly ask that you bring your own food for this meal. "
+Day 2,Monday,Block Party Carnival,High Energy,6:00 PM,4 h,On Campus,No,NA,Orientation Field,640,140,"Our Block Party is a collaborative event with various other colleges, in Varsity Centre. Expect many inflatables and carnival activities, as well as free things given to you by our sponsors! Join us for a night of extreme fun!
+
+Please note, you will not be allowed to bring in food or drinks other than water to the varsity centre. Additionally, you will need to have to wear your Orientation shirts and have your Orientaiton name tag with you in order to enter the Varsity Centre for Block Party!"
+Day 3,Tuesday,Commuter Orientation,Educational,10:00 AM,2 h,On Campus,No,NA,Alumni Hall,270,895,"Hello, Welcome to St. Michael's College! The Commuter Coordinators cannot wait to get to meet you. If you are wondering who we are, the Commuter Coordinators are fellow UofT students who work to oversee and help guide the commuter population of our college. Over the next year, the Commuter Coordinator team will host many different fun events and activities at St. Mike's to help students get to know each other and help them become more familiar with life as commuter student downtown.
+The Orientation will allow you to meet fellow commuters, meet our team, and begin to explore the campus with a guided tour!
+"
+Day 3,Tuesday,Pre UofT Panels,Educational,1:00 PM,1.5 h,On Campus,No,NA,Kelly Library,440,900,"PRE UofT is an annual intercollegiate Orientation event for students from across the Faculty of Arts & Sciences. The program is designed to introduce students to their area of academic study and to help students develop strategies for academic success by connecting them with professors and upper-year students in their program of study.
+
+During PRE UofT, students from each participating college attend one of five sessions based on their academic admission stream. In each of these sessions, students hear from a panel that is made up of both faculty and upper-year students in their program of study. During the panel, faculty and student members will answer questions asked by a Student Moderator.  Audience members are also able to submit questions. "
+Day 3,Tuesday,Pancake Social,Low Energy,3:00 PM,2 h,On Campus,No,NA,Orientation Field,640,140,"Join the SMC Senior Administration team in the Athletic field for some pancakes! This is the perfect opportunity to meet them in a more casual setting, with no expectations!
+
+There will be pancakes available! Please check for allergens and dietary restrictions!"
+Day 3,Tuesday,Mock Lectures,Educational,3:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75,"Join Professor Parker for a Mock Lecture on ""How Videogames Make Meaning"". Students will be able to ask questions and experience what a university lecture is like, without any of the pressure! 
+
+Lecture Description: Like many medium or art form, video games can tell stories , produce aesthetic experiences, and express sociocultural values. In this mock lecture with Prof. Felan Parker (Book & Media Studies), we will apply concepts from game studies to analyze several small experimenttal indie games and learn about how games make meaning. 
+
+This leacture features the Book & Media Studies program, one of the four programs sponsored by St. Michael's College!
+During PRE UofT, students from each participating college attend one of five sessions based on their academic admission stream. In each of these sessions, students hear from a panel that is made up of both faculty and upper-year students in their program of study. During the panel, faculty and student members will answer questions asked by a Student Moderator.  Audience members are also able to submit questions. "
+Day 3,Tuesday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140,"Dinner for Sep 5th will be Lasagna! Please make sure to read the ingredients and double check for allergens and dietary restrictions. 
+
+Meal Description: Beef Lasagna or Vegetarian Lasagna, Classis Caesar Salad, Garlic Bread, Dessert Sqaures. 
+Ingredients:
+Beef lasagna: beef, tomato sauce, cheese (milk)
+Pasta: flour, sugar, eggs
+Garlic bread: flour, butter, garlic, sugar
+Classic Ceaser salad: bread, milk, eggs
+For GF meal, please talk to staff.
+
+Unfortunately we cannot provide food for all dietary requirements due to the large number of attendees. Therefore, if the meals provided don't accomodate your dietary requirements, we kindly ask that you bring your own food for this meal. "
+Day 3,Tuesday,Board Games Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315,"Join the Pair-A-Dice team (SMC's very own board game club), to play various board games, as a way to finish off the second day of Orientation and relax!"
+Day 3,Tuesday,Dance Party,High Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315,"Join the Pair-A-Dice team (SMC's very own board game club), to play various board games, as a way to finish off the second day of Orientation and relax!"
+Day 3,Tuesday,Praise and Worship Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Charbonnel Lounge,500,75,"What’s on your heart as you look forward to this school year? Joy? Gratitude? Worry? Whatever it is, we invite you to bring it to the Lord in song! Our team is working hard to put together a night of music, reflection, food, and fellowship. Whether you love to sing, to listen, or you just heard rumours of freshly baked cookies, you are warmly welcomed."
+Day 3,Tuesday,Mystery Hunt,Low Energy,7:00 PM,2 h,On Campus,No,NA,Kelly Library,440,900,"SMC Orientation and the Kelly Library are excited to be co-hosting Mystery Night! An event where orientation groups have to solve various challenges throughout the library to help the library staff figure out who kidnapped Basil - SMC’s beloved bulldog mascot. Throughout the process, you’ll learn about resources available at the library, meet the staff at the library who can help you throughout the semester with research, writing, and general academic concerns, and of course, catch the kidnappers and save orientation! Join us at Kelly Library for a locked-room-style night of mystery! "
+Day 4,Wednesday,Lunch,Meals,9:00 AM,1 h,On Campus,No,"Halal, Gluten Free, Vegetarian",Orientation Field,640,140,"Lunch (or Brunch, as you will) for Sep 6th will be Pizza!  Please make sure to read the ingredients and double check for allergens and dietary restrictions. 
+Ingredients:
+Pepperoni Pizza
+Dough: Wheat flour, canola oil, sugar, baking powder, salt, yeast
+Cheese: Milk, salt
+Sauce: Extra virgin olive oil, sunflower oil, oregano, sea salt, black pepper, garlic, vine-ripened tomatoes
+Pepperoni: Pork, Chicken, beef, tapioca starch, sugar
+"
+Day 4,Wednesday,Pep Rally,High Energy,9:00 AM,1 h,On Campus,No,NA,Orientation Field,640,140,Let the contagious energy sweep you off your feet as you cheer on your fellow students with exhilarating team spirit. Get ready to show your St. Mike's pride and make memories that will last a lifetime. Don't miss out on this remarkable event! 
+Day 4,Wednesday,Cheer Off and Parade,High Energy,10:30 AM,1.5 h,On Campus,No,NA,Orientation Field,640,140,"The UTSU Cheer Off and Parade is a UofT tradition, where the different colleges gather in Varsity Centre to sing chants and show their college spirit. Then, once the cheer off is concluded, the colleges parade through Downtown Toronto, to showcase their UofT spirit! Expect lots of high energy chants and body paint, as well as wonderful memories for years to come!"
+Day 4,Wednesday,Clubs Fair,High Energy,1:00 PM,3 h,On Campus,No,NA,Charbonnel Lounge,500,75,"The UTSU Clubs' Fair is a wonderful opportunity for first-year students to learn more about the wide variety of clubs available at UofT! Take a stroll through the various booths at the fair to discover what group you would like to be a part of. Clubs are a great way for you to meet other students with similar interests, so don't skip out on this very fun event!"
+Day 4,Wednesday,Dinner,Meals,5:30 PM,1.5 h,On Campus,No,"Halal, Gluten Free, Vegetarian, Vegan",Orientation Field,640,140,"The dinner for September 6this ""Greek"". Please check back here closer to Orientation for a list of ingredients. Please make sure to read the ingredients and double check for allergens and dietary restrictions. 
+
+Meal description: Chicken Souvlaki or Falafels (Vegan), Greek Salad, Fattoush Salad, Naan Bread, Grilled Tempeh Skewers (Vegan), Tzatziki Cupcakes.
+Ingredients:
+Chicken Souvlaki: chicken breast
+Grilled Tempeh: vegan
+Falafels: vegan
+Tzatziki: mayonnaise, milk
+Naan bread: wheat flour, buttermilk
+Cupcakes: flour, eggs, sugar
+Greek Souvlaki and salads are gluten free. GF buns will also be available.
+Unfortunately we cannot provide food for all dietary requirements due to the large number of attendees. Therefore, if the meals provided don't accomodate your dietary requirements, we kindly ask that you bring your own food for this meal. "
+Day 4,Wednesday,Kelly's Korner,Low Energy,7:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315,"The dinner for September 6this ""Greek"". Please check back here closer to Orientation for a list of ingredients. Please make sure to read the ingredients and double check for allergens and dietary restrictions. 
+
+Meal description: Chicken Souvlaki or Falafels (Vegan), Greek Salad, Fattoush Salad, Naan Bread, Grilled Tempeh Skewers (Vegan), Tzatziki Cupcakes.
+Ingredients:
+Chicken Souvlaki: chicken breast
+Grilled Tempeh: vegan
+Falafels: vegan
+Tzatziki: mayonnaise, milk
+Naan bread: wheat flour, buttermilk
+Cupcakes: flour, eggs, sugar
+Greek Souvlaki and salads are gluten free. GF buns will also be available.
+Unfortunately we cannot provide food for all dietary requirements due to the large number of attendees. Therefore, if the meals provided don't accomodate your dietary requirements, we kindly ask that you bring your own food for this meal. "
+Day 5,Thursday,International Student Welcome,Low Energy,12:30 PM,2 h,On Campus,No,NA,Brennan Hall,550,315,"Are you an international student with questions? Then this is the event for you! Join the Registrar at this event, to learn about the academic and student services available to you, to help you succeed and meet staff from various divisions (ie. Centre for International Experience, UTSU, ...). Each division will have their own table where you can approach staff and have your questions answered!
+
+A light lunch will also be served!"
+Day 5,Thursday,Bed Races,High Energy,4:00 PM,1.5 h,On Campus,No,NA,Orientation Field,640,140,"Bed races is an event where the Engineering and Arts and Science students build a ""bed"" (on wheels) and race it down King's College Road! Orientees from all over the University gather round to watch this intense race, while getting the chance to scare off the competition with their spirited chanting. The first Bed race happened in 2002, and SMC has won it 15 times, with 6 years of undefeated wins (according to its Wikipedia Page)! Check out the link below to see the 2022 SMC Bed Races!
+
+Join us to cheer on our team at this amazing SMC tradition!"
+Day 5,Thursday,Movie Night,Low Energy,7:00 PM,2 h,On Campus,No,NA,Alumni Hall,280,895,"Join us for a Movie Night in collaboration with Victoria College Orientation! We will have three locations in total with three genres (Mystery/ Thriller, Fantasy/ Animation, and Comedy/ Romance) playing. 
+
+"
+Day 6,Friday,Syllabus Reading Party,Low Energy,2:00 PM,2 h,On Campus,No,NA,Brennan Hall,550,315,"Join us for a Movie Night in collaboration with Victoria College Orientation! We will have three locations in total with three genres (Mystery/ Thriller, Fantasy/ Animation, and Comedy/ Romance) playing. 
+
+"
+Day 7,Saturday,Campus Ministry Mass,Low Energy,5:00 PM,1 h,On Campus,No,NA,Charbonnel Lounge,500,75,"Come join us for our first Campus Ministry mass of the semester, and discover the spiritual nourishment and deep friendship that can be born from communal worship! This will be a great time to experience St. Mike’s Catholic heritage, and to catch the Campus Ministry choir in action."
+Day 7,Saturday,Formal & Closing Ceremonies,High Energy,7:00 PM,3 h,Off Campus,Yes,NA,Off Campus,NA,NA,"Join us for the 2023 ORIENTATION FORMAL! Expect a night of so much fun, with dancing and games! This is your time to shine alongside your new peers! We will be waiting for you at the Sheraton Centre Toronto Hotel (123 Queen Street W) in the Dominion Ballroom, starting at 7PM! If you are unsure of how to get to the Sheraton Centre, please visit the document below (How to get to Sheraton Hotel)."
+Day 8,Sunday,City Tours,High Energy,11:00 AM,3 h,Off Campus,Yes,NA,Off Campus,NA,NA,"Spend an afternoon exploring attractions around the city! From local markets to shopping malls, iconic landscapes to vegan food festivals, join us on Sunday, 10th September to discover amazing experiences Toronto has to offer.
+
+Check out the link below (City Tour Outline) to learn more information about the tour, and the different activities available for you to do at each stop!"
+Day 9,Monday,Academic Social,Low Energy,5:00 PM,2 h,On Campus,No,NA,Carr Hall,230,680,"Do you want to learn more about your upcoming courses from the experts themselves? Do you want to meet Dean Melanie Woodin in person? If so, join us on September 11 at 5pm for a meet ’n greet with professors and TAs from a wide range of departments. This is the perfect opportunity to connect with different professors and learn what kinds of courses they offer and what different academic programs are like. It also gives you a chance to find new areas you might want to explore during your time at university and allows your future professors to get to know you better. 
+Check out the link below (City Tour Outline) to learn more information about the tour, and the different activities available for you to do at each stop!"
+Day 11,Wednesday,Resources and Clubs Fair,Low Energy,12:00 PM,3 h,On Campus,No,NA,Kelly Library,440,900,"The resource fair is a beneficial and interactive event that highlights the diverse array of valuable services and programming provided by St. Michael's College. These resources are specifically designed to enrich various aspects of student life, offering comprehensive support throughout your university journey. They encompass academics, mental and physical wellness, spiritual life, and community engagement. 
+Attending the resource fair gives you the opportunity to inquire and engage with a multitude of knowledgeable college staff and student representatives. This includes your college registrar staff, learning strategists, mental health counselors, commuter dons, residence dons, student and course union counselors, as well as the dedicated staff from the writing center and beyond! 
+"
+Day 11,Wednesday,Back to School BBQ,Low Energy,4:00 PM,4 h,On Campus,No,NA,Orientation Field,640,140,"The resource fair is a beneficial and interactive event that highlights the diverse array of valuable services and programming provided by St. Michael's College. These resources are specifically designed to enrich various aspects of student life, offering comprehensive support throughout your university journey. They encompass academics, mental and physical wellness, spiritual life, and community engagement. 
+Attending the resource fair gives you the opportunity to inquire and engage with a multitude of knowledgeable college staff and student representatives. This includes your college registrar staff, learning strategists, mental health counselors, commuter dons, residence dons, student and course union counselors, as well as the dedicated staff from the writing center and beyond! 
+"
+Day 12,Thursday,Blue Jays Game,High Energy,7:00 PM,2 h,Off Campus,Yes,NA,Off Campus,NA,NA,"SMCSU and SMC Orientation are excited to offer discounted tickets to all St Mike's students for the Blue Jays Game on Thursday September 14th at 7:07 PM at the Rogers Center (1 Blue Jays Way, Toronto, ON M5V 1J1). Come watch the Toronto Blue Jay's play against Texas Rangers and show your SMC spirit at the uni and college night!"
