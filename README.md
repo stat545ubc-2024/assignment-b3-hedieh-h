@@ -17,3 +17,5 @@ Name of the File | Description
 ----------|---------
 README file | Contains the App description
 Orientaiton folder | Contains all the files for the shiny app
+.gitignore | Configuration file specifying files and directories that should be ignored by Git
+.DS_Store | System file used by macOS to store custom attributes of a folder, such as window size and icon positions.
