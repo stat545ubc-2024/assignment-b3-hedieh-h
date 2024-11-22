@@ -149,7 +149,20 @@ server <- function(input, output, session) {
 
   # Render the filtered schedule table
   output$schedule_table <- renderDT({
-    filtered_data <- filtered_schedule() %>%
+    filtered_data <- filtered_schedule()
+    # Check if filtered_data has rows
+    if (nrow(filtered_data) == 0) {
+      # Return a message if there are no rows
+      return(
+        DT::datatable(
+          data.frame("No events available" = "There are no events matching your filters. Please try broadening your filter to find events."),
+          options = list(pageLength = 1),  # Show only 1 row (the message)
+          rownames = FALSE,
+          colnames = NULL
+        )
+      )
+    }
+    filtered_data <- filtered_data %>%
       select(Day, Weekday, Event.Name, Category, Time, Duration, Event.Location) # only show the columns relevant to the user
     filtered_data$Add <- sapply(1:nrow(filtered_data), function(i) {
       paste('<button class="add-btn" onclick="Shiny.setInputValue(\'add_event\',', i, ')">Add to Schedule</button>') # make a button to allow users to add the selected event to their schedule

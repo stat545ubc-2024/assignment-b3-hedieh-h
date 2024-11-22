@@ -1,0 +1,10 @@
+name: orientation
+title:
+username: hedieh
+account: hedieh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13420138
+bundleId: 9400006
+url: https://hedieh.shinyapps.io/orientation/
+version: 1
