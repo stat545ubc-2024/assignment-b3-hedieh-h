@@ -16,6 +16,6 @@ The dataset used in this app was created by Hedieh Hashemi and is stored in this
 Name of the File | Description
 ----------|---------
 README file | Contains the App description
-Orientaiton folder | Contains all the files for the shiny app
+Orientaiton folder | Contains all the files for the shiny app, including the data folder (contains the orientation_schedule dataset), and the www folder (contains the map and flag image)
 .gitignore | Configuration file specifying files and directories that should be ignored by Git
 .DS_Store | System file used by macOS to store custom attributes of a folder, such as window size and icon positions.
