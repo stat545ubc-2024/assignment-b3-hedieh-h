@@ -11,3 +11,9 @@ This app contains an event schedule table for an orientation week. Users are abl
  ## App Dataset Acknowledgement
  
 The dataset used in this app was created by Hedieh Hashemi and is stored in this repository in the 'data' folder. The event list and descriptions were created by St. Michael's College Orientation 2023 team. 
+
+## Repository Table of Contents
+Name of the File | Description
+----------|---------
+README file | Contains the App description
+Orientaiton folder | Contains all the files for the shiny app
