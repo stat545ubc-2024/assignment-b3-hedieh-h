@@ -17,5 +17,6 @@ Name of the File | Description
 ----------|---------
 README file | Contains the App description
 Orientaiton folder | Contains all the files for the shiny app, including the data folder (contains the orientation_schedule dataset), and the www folder (contains the map and flag image)
+Improved_Orientaiton folder | Contains all the files for the improved shiny app for the purpose of assignment b4, including the data folder (contains the orientation_schedule dataset), and the www folder (contains the map and flag image)
 .gitignore | Configuration file specifying files and directories that should be ignored by Git
 .DS_Store | System file used by macOS to store custom attributes of a folder, such as window size and icon positions.
